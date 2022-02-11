@@ -50,6 +50,8 @@ create tow application pools
 map web ui for main 
 and api and api sync for application pools
 
+#Your IIS Binding will be like
+![Screenshot](iis.png)
 #MYSQL Instalation
 
 Download binary
