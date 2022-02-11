@@ -21,7 +21,7 @@ vcredist2010_x86
 dotnet --info
 Get-WmiObject -Class Win32_Product -Filter "Name LIKE '%Visual C++%'"
 
-![Screenshot](Version check.png)
+![Screenshot](Versioncheck.png)
 
 IIS Mgmt installation
 
