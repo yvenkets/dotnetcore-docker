@@ -24,7 +24,7 @@ dotnet --info
 Get-WmiObject -Class Win32_Product -Filter "Name LIKE '%Visual C++%'"
 
 
-![Screenshot](Versioncheck.png)
+![Screenshot](/images/Versioncheck.png)
 
 **IIS Mgmt installation**
 
